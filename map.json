@@ -1,0 +1,14 @@
+[
+  {
+    "type": 1,
+    "name": "The World"
+  },
+  {
+    "type": 2,
+    "name": "Nether"
+  },
+  {
+    "type": 3,
+    "name": "The End"
+  }
+]

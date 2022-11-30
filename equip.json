@@ -1,0 +1,19 @@
+{
+  "sword": [
+    {
+      "name": "Wooden Sword",
+      "reliability": 100,
+      "crafting": {
+        "wood": {
+          "type": 1,
+          "length": 2
+        },
+        "stick": {
+          "type": 1,
+          "length": 1
+        }
+      }
+      "image": ""
+    }
+  ]
+}
